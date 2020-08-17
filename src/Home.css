@@ -1,0 +1,21 @@
+.home {
+    max-width: 1500px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-top: auto;
+}
+
+.home_image {
+    width: 100%;
+    z-index: -1;
+    margin-bottom: 50px;
+  }
+
+  .home_row {
+      display: flex;
+      z-index: 1;
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+  
